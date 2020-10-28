@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://gitee.com/liuzy1988/soft/raw/master/upchat.ipa</string>
+                        <string>https://res-shaiya.liuzy88.com/upchat.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>display-image</string>
                         <key>url</key>
-                        <string>https://gitee.com/liuzy1988/soft/raw/master/upchat.png</string>
+                        <string>https://res-shaiya.liuzy88.com/upchat.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
                         <key>url</key>
-                        <string>https://gitee.com/liuzy1988/soft/raw/master/upchat.png</string>
+                        <string>https://res-shaiya.liuzy88.com/upchat.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
